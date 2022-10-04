@@ -39,7 +39,7 @@ document.getElementById('calculator').addEventListener('click', function (event)
         }
     }
     else {
-        cost newTypedNumber = previousTypedNumber + number;
+        const newTypedNumber = previousTypedNumber + number;
         typedNumberField.value = newTypedNumber;
     }
 
