@@ -44,3 +44,6 @@ document.getElementById('calculator').addEventListener('click', function (event)
     }
 
 })
+document.getElementById('verify-pin').addEventListener('click', function () {
+    const 
+})
